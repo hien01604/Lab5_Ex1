@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Thư mục chứa các tệp build (nếu có)
+/build
+/dist
+
+# Các tệp hệ thống của IDE (vscode, jetbrains...)
+.idea/
+.vscode/
+
+# Tệp môi trường (thông tin nhạy cảm)
+.env
